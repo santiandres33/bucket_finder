@@ -1,3 +1,4 @@
+```
 # == Bucket Finder - Trawl Amazon S3 buckets for interesting files
 #
 # Each group of files on Amazon S3 have to be contained in a bucket and each bucket has to have a unique
@@ -32,3 +33,4 @@
 # Copyright:: Copyright (c) Robin Wood 2011
 # Licence:: Creative Commons Attribution-Share Alike Licence
 #
+```
